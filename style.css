@@ -1,0 +1,40 @@
+body{
+	margin: 0px;
+}
+
+#story {
+	background-color: #B2C1D1;
+	position: relative;
+	float: left;
+	width: 50%;
+	margin: 0px;
+	padding-bottom: 35px;
+	font-size: 135%;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+}
+
+#story p {
+	padding: 5px;
+}
+
+h1, p {
+	font-family: sans-serif;
+}
+#social_media_bar{
+	background-color: #003366;
+	position: relative;
+	float: right;
+	width: 50%;
+	height: auto;
+	bottom: 0px;
+}
+
+.social_media_img img{
+	width: 100px;
+	height: 100px;
+	padding: 0px;
+	margin: 25% 50%;
+
+}
