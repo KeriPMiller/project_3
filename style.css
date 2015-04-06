@@ -5,11 +5,11 @@ body{
 #story {
 	background-color: #B2C1D1;
 	position: absolute;
-	font-size: 90%;
+	font-size: 200%;
 	top: 0;
 	left: 0;
 	right: 20%;
-	bottom: 0;
+	bottom: auto;
 }
 
 #story p {
@@ -21,7 +21,7 @@ h1, p {
 }
 #social_media_bar{
 	background-color: #003366;
-	position: absolute;
+	position: fixed;
 	top: 0;
 	left: 80%;
 	right: 0;
@@ -39,6 +39,7 @@ h1, p {
 
 #main, #second {
 	position: relative;
+	font-size: 200%;
 	float: left;
 	width: 40%;
 	height: 100%;
